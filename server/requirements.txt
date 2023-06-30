@@ -1,0 +1,15 @@
+dl_cliche==0.1.12
+fastai==1.0.58
+Flask==2.2.2
+Flask-Session==0.4.0
+ipython==8.7.0
+matplotlib==3.6.2
+numpy==1.23.5
+opencv-python==4.6.0.66
+Pillow==9.3.0
+scikit_learn==1.1.3
+scikit-image==0.19.3
+torch==1.13.0
+torchvision==0.14.0
+tqdm==4.64.1
+Werkzeug==2.2.2
